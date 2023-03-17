@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HeKvn
 - 👀 I’m interested in coding and lol
-- 🌱 I’m currently learning 《你不知道的JavaScript》
 - 💞️ I’m looking to collaborate on dianxiaomi.com
 - 📫 How to reach me -- https://hekvn.top/blog/
 
