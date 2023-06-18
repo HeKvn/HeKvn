@@ -2,7 +2,7 @@
   <img src="https://image.hekvn.top/kunchi-logo.png" width="50" height="50" />
   <span>
     <span>鲲池</span>
-    <a href="https://hekvn.top" target="_blank" />
+    <a href="https://hekvn.top" target="_blank"></a>
   </span>
 </div>
 
@@ -10,7 +10,7 @@
   <img src="https://image.hekvn.top/juejin-logo.png" width="50" height="50" />
   <span>
     <span>掘金</span>
-    <a href="https://juejin.cn/user/26815052124776" target="_blank" />
+    <a href="https://juejin.cn/user/26815052124776" target="_blank"></a>
   </span>
 </div>
 
